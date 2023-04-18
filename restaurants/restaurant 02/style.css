@@ -1,0 +1,24 @@
+@media (max-width:767.98px){
+    body{
+        max-width:767.98px;
+        align-items:center;
+       
+  }
+.main-container
+  {
+        max-width:320px;
+        align-items:center;  
+           overflow-x: hidden;
+  }
+    .h1 {
+        font-size:30px;
+        font-family:shrikhand;
+        font-style:italic;
+        font-weight:400;
+        line-height:44px;
+        text-align:center;
+        color:black;
+        width: 162px;
+        height: 44px;
+    }
+}
